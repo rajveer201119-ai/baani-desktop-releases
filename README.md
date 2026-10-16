@@ -12,9 +12,9 @@ Use the same Baani account and online workspace, with a system-wide shortcut and
 
 Windows: Ctrl+Alt+Space. Mac: Command+Shift+9. Press again to finish.
 
-These early-access installers are unsigned. Windows may show SmartScreen. The Mac builds are previews, have not been notarized, and have not been verified on a physical Mac. Only proceed through your operating system's installation warning if you trust this official release. Allow microphone access and, on Mac, Accessibility access. Internet is required.
+Signing and notarization status is disclosed on the download page. Mac cross-app dictation has not been verified on a physical Mac. Allow microphone access and, on Mac, Accessibility access. Internet is required.
 
 Install Windows by running the .exe. On Mac, open the .dmg and drag Baani AI into Applications. Use /desktop inside the app for setup and updates.
 
-Verify SHA-256 checksums with SHA256SUMS.txt. The private Baani source repository is not published here. Lovable AI and account allowances are unchanged.
+Verify SHA-256 checksums with SHA256SUMS.txt. Your existing Baani plan and account allowances apply.
 
