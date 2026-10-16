@@ -6,7 +6,7 @@ Official desktop installers for Baani AI by NO BOX RESEARCH.
 
 This repository contains release binaries and checksums only. Baani application source remains private.
 
-Baani AI Desktop 1.0.2 — Early Access
+Baani AI Desktop 1.0.3 — Early Access
 
 Use the same Baani account and online workspace, with a system-wide shortcut and floating dictation widget.
 
