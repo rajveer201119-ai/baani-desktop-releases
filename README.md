@@ -6,11 +6,11 @@ Official desktop installers for Baani AI by NO BOX RESEARCH.
 
 This repository contains release binaries and checksums only. Baani application source remains private.
 
-Baani AI Desktop 1.0.4 — Early Access
+Baani AI Desktop 1.0.5 — Early Access
 
 Use the same Baani account and online workspace, with a system-wide shortcut and floating dictation widget.
 
-This update repairs the floating dictation widget's native window layering. Each shortcut invocation reapplies the overlay layer and raises it without taking keyboard focus from your current app. Expansion, collapse and reload restore the layer too. The existing widget workspace, formatting, cleanup, history, saved words, meetings, account allowances and native insertion remain included.
+This update fixes dictation insertion failing with “At least one MIME type is required” when the existing clipboard contains an empty native entry. Empty and unreadable clipboard formats no longer block pasting. Readable clipboard contents are restored when possible, newer copies are respected, and a restore failure no longer misreports a successful paste as a failed insertion. The existing widget workspace, formatting, cleanup, history, saved words, meetings and account allowances remain included.
 
 Windows: Ctrl+Alt+Space. Mac: Command+Shift+9. Press again to finish.
 
