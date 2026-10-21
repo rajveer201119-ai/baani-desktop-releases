@@ -6,11 +6,13 @@ Official desktop installers for Baani AI by NO BOX RESEARCH.
 
 This repository contains release binaries and checksums only. Baani application source remains private.
 
-Baani AI Desktop 1.0.5 — Early Access
+Baani AI Desktop 1.0.6 — Early Access
 
 Use the same Baani account and online workspace, with a system-wide shortcut and floating dictation widget.
 
-This update fixes dictation insertion failing with “At least one MIME type is required” when the existing clipboard contains an empty native entry. Empty and unreadable clipboard formats no longer block pasting. Readable clipboard contents are restored when possible, newer copies are respected, and a restore failure no longer misreports a successful paste as a failed insertion. The existing widget workspace, formatting, cleanup, history, saved words, meetings and account allowances remain included.
+This update adds a bundled floating meeting widget, microphone plus computer-audio recording, and a single Desktop Home for shortcut, language, formatting and tone preferences. Desktop startup opens Desktop Home. Available updates can be downloaded, integrity-checked and opened directly after confirmation, without visiting a release page. Existing AI processing, plan allowances and payment verification are unchanged.
+
+Computer audio requires explicit recording consent. Windows uses system loopback; other computer sounds may be included. Mac desktop capture requires macOS 15+ system-picker audio support and permission; physical Mac capture is not verified. Check both audio meters and use headphones. Browser users must select the meeting tab and enable Share audio. No screen video is recorded or uploaded. Microphone-only mode remains available for in-person meetings.
 
 Windows: Ctrl+Alt+Space. Mac: Command+Shift+9. Press again to finish.
 
