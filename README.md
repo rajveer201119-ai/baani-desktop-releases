@@ -6,11 +6,11 @@ Official desktop installers for Baani AI by NO BOX RESEARCH.
 
 This repository contains release binaries and checksums only. Baani application source remains private.
 
-Baani AI Desktop 1.0.9 — Early Access
+Baani AI Desktop 1.0.10 — Early Access
 
 Use the same Baani account and online workspace, with a system-wide shortcut and floating dictation widget.
 
-This update adds local destination classification for automatic email and message formatting. Only the category (email, message or general) reaches AI; application names and window titles remain on the device. The shared interface adds automatic speech-language detection and a faster dictation/formatting pipeline. Existing explicit language/format choices, account access and word metering remain available.
+This update keeps global dictation shortcuts working in the background. It restores registrations after sleep and screen unlock, restarts an unhealthy Windows Ctrl+Windows helper, renews Windows modifier hooks between chords, and recovers an unloaded dictation widget without requiring the main app to be opened. Existing shortcuts, account settings, language and formatting choices remain available.
 
 Computer audio requires explicit recording consent. Windows uses system loopback; other computer sounds may be included. Mac desktop capture requires macOS 15+ system-picker audio support and permission; physical Mac capture is not verified. Check both audio meters and use headphones. Browser users must select the meeting tab and enable Share audio. No screen video is recorded or uploaded. Microphone-only mode remains available for in-person meetings.
 
